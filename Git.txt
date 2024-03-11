@@ -1,0 +1,38 @@
+Git Command-
+
+git init
+
+git status
+
+git commit- if any changes, it should be comment......
+
+git clone url 
+
+Create a New Branch-
+git checkout -b new-feature
+
+Commit Your Changes-
+git add .
+git commit -m "Add new feature"
+
+
+git push origin new-feature
+
+---------------------------------------------------------
+
+push an existing repository from the command line
+git remote add origin https://github.com/amoldive027/test1234.git
+git branch -M main
+git push -u origin mains
+
+
+
+--------------
+configure git with username-
+
+git config user.name "Your Username"
+
+
+configure git with emailid-
+git config --global user.email "your.email@example.com"
+
